@@ -1,16 +1,35 @@
 ### Hi there 👋
+<!-- Title -->
+# My Star Wars GitHub Profile
 
-<!--
-**kvikmynd639/kvikmynd639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Star Wars Font -->
+<link href="https://fonts.cdnfonts.com/css/star-wars" rel="stylesheet">
+                
+<!-- CSS Styling -->
+<style>
+    body {
+        background-color: black;
+        color: white;
+        font-family: 'Star Wars', sans-serif;
+    }
+    .spaceship {
+        width: 50px;
+        height: auto;
+        margin: 10px;
+    }
+</style>
 
-Here are some ideas to get you started:
+<!-- Content -->
+## Welcome to a Galaxy Far, Far Away...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Small Spaceships -->
+<img src="path/to/spaceship1.png" class="spaceship" alt="Spaceship">
+<img src="path/to/spaceship2.png" class="spaceship" alt="Spaceship">
+<img src="path/to/spaceship3.png" class="spaceship" alt="Spaceship">
+
+<!-- Languages Used -->
+### Languages Used:
+- HTML/CSS
+- JavaScript
+- Python
+
