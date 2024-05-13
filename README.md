@@ -1,4 +1,4 @@
-![Star Wars Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png)
+![Star Wars Image](https://lumiere-a.akamaihd.net/v1/images/image_5c51d8fe.jpeg)
 
 
 # Star Wars: The Code Wars
