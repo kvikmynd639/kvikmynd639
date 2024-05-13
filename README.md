@@ -1,4 +1,4 @@
-![Star Wars Image](https://lumiere-a.akamaihd.net/v1/images/image_5c51d8fe.jpeg)
+![Star Wars Image](https://1000logos.net/wp-content/uploads/2023/06/Jedi-Logo.png)
 
 
 # Star Wars: The Code Wars
