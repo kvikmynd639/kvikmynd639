@@ -1,11 +1,9 @@
-![Star Wars Image](https://seeklogo.com/images/J/Jedi_Order-logo-9FC4769C44-seeklogo.com.png)
+![Star Wars Image](https://live.staticflickr.com/65535/49824875418_b13594fff2_k.jpg)
 
 
 # Star Wars: The Code Wars
 
-Welcome to my coding galaxy! 🌌
-
-In this repository, you'll find projects inspired by the Star Wars universe.
+In the galaxy, far away
 
 ## Projects:
 
