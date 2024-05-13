@@ -8,6 +8,7 @@ In the galaxy, far away, there was a Java order.
 ## Projects:
 
 - **Initial D Themed Static website**: A static website built in Next/TailwindCSS with Initial D theme
+- **Reddit Clone**: Next/TailwindCSS/Prisma
 - **Doctor Strange Portal Generator** : A game built in ReactJS and TailwindCSS (state management of portals)
 - **MorphoGeo** - 3D terrain generator built by Python (PyGame and Panda3D)
 - **Quantum Computing Simulator** : C++ simulation of quantum algorithms
