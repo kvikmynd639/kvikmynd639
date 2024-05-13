@@ -1,4 +1,4 @@
-![Star Wars Image](https://1000logos.net/wp-content/uploads/2023/06/Jedi-Logo.png)
+![Star Wars Image](https://seeklogo.com/images/J/Jedi_Order-logo-9FC4769C44-seeklogo.com.png)
 
 
 # Star Wars: The Code Wars
