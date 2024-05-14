@@ -26,7 +26,7 @@
 - **Naruto Character Encyclopaedia** : Next/TailwindCSS
 - **Geological map** : Unity/C#
 - **Memrise Clone** : GraphQL/Gatsby/Firebase
-- **Turing Machine Replica** : GTK/Rust
+- **Turing Machine Replica** : GTK/Rust (pending)
 - **Star Wars Movie Lister**: ReactJS/CSS - TMDB API
 - **Neptune Themed Website** : Three.js/CSS
 
