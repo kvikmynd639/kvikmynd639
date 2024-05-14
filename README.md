@@ -16,7 +16,7 @@
 ## Projects:
 
 - **Initial D Themed Static website**: A static website built in Next/TailwindCSS with Initial D theme
-- **Reddit Clone**: Next/TailwindCSS/Prisma
+- **Reddit Clone**: Next/Typescript/TailwindCSS/Prisma
 - **Doctor Strange Portal Generator** : A game built in ReactJS and TailwindCSS (state management of portals)
 - **MorphoGeo** - 3D terrain generator built by Python (PyGame, NumPy, Perlin)
 - **Quantum Computing Simulator** : C++ simulation of quantum algorithms
