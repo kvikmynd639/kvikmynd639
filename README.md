@@ -23,7 +23,7 @@
 - **Flip a Coin & Hadamard Gate** : NumPy simulation of a quantum algorithm
 - **Topology Puzzle Solver** : the name says it all, however, it won't explain it at all (developed in Rust)
 - **Thermodynamics calculator** : developed in Angular
-- **Naruto Character Encyclopaedia** : Next/TailwindCSS
+- **Naruto Character Encyclopaedia** : Vue/Vuetify/TailwindCSS
 - **Geological map** : Unity/C#
 - **Memrise Clone** : GraphQL/Gatsby/Firebase
 - **Turing Machine Replica** : GTK/Rust (pending)
