@@ -9,7 +9,9 @@
 
 ## About me
 🚀 Frontend Developer at iPark  
-🚀 Flutter App Developer at Verlab Institute
+🚀 Flutter Developer at Verlab Institute
+
+
 
 ## Projects:
 
