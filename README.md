@@ -26,7 +26,8 @@
 - **Geological map** : Unity/C#
 - **Memrise Clone** : GraphQL/Gatsby/Firebase
 - **Turing Machine Replica** : GTK/Rust
-- **Star Wars Movie Lister**: ReactJS/CSS - TMDB API  
+- **Star Wars Movie Lister**: ReactJS/CSS - TMDB API
+- **Neptune Themed Website** : Three.js/CSS
 
 ## Programming Languages/Tools/Frameworks/DBs
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,next,vue,nuxtjs,react,tailwind,vuetify,sass,threejs,gatsby,graphql,figma,angular,flutter,python,flask,fortran,cpp,cs,arduino,cypress,dotnet,firebase,unity,express,rust,blender,jquery,lua,latex,mysql,matlab)](https://skillicons.dev)
