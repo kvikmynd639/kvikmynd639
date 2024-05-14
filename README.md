@@ -20,6 +20,7 @@
 - **Doctor Strange Portal Generator** : A game built in ReactJS and TailwindCSS (state management of portals)
 - **MorphoGeo** - 3D terrain generator built by Python (PyGame and Panda3D)
 - **Quantum Computing Simulator** : C++ simulation of quantum algorithms
+- **Flip a Coin & Hadamard Gate** : NumPy simulation of a quantum algorithm
 - **Topology Puzzle Solver** : the name says it all, however, it won't explain it at all (developed in Rust)
 - **Thermodynamics calculator** : developed in Angular
 - **Naruto Character Encyclopaedia** : Next/TailwindCSS
