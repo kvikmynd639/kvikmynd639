@@ -1,9 +1,15 @@
 ![Star Wars Image](https://assets-global.website-files.com/5f7244960797844e78d7a13a/5f791dc865ebcb58e1dcf781_Full%20Size%20Image%20(2).jpg)
 
+# Star Wars: The Code Wars 
 
-# Star Wars: The Code Wars
+🚀 Jedi order fighting against Java order  
+🚀 C++ Republic vs C# Republic  
+🚀 Return of the Java order - not so happy about it  
+...
 
-In the galaxy, far away, there was a Java order.
+## About me
+🚀 Frontend Developer at iPark  
+🚀 Flutter App Developer at Verlab Institute
 
 ## Projects:
 
@@ -12,15 +18,26 @@ In the galaxy, far away, there was a Java order.
 - **Doctor Strange Portal Generator** : A game built in ReactJS and TailwindCSS (state management of portals)
 - **MorphoGeo** - 3D terrain generator built by Python (PyGame and Panda3D)
 - **Quantum Computing Simulator** : C++ simulation of quantum algorithms
-- **Topology Puzzle Solver** : the same says it all, however, it won't explain it all (developed in Rust)
+- **Topology Puzzle Solver** : the name says it all, however, it won't explain it at all (developed in Rust)
 - **Thermodynamics calculator** : developed in Angular
 - **Naruto Character Encyclopaedia** : Next/TailwindCSS
 - **Geological map** : Unity/C#
 - **Memrise Clone** : GraphQL/Gatsby/Firebase
 - **Turing Machine Replica** : GTK/Rust
+- **Star Wars Movie Lister**: ReactJS/CSS - TMDB API  
 
-## Programming Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,next,vue,nuxtjs,react,tailwind,vuetify,sass,threejs,gatsby,graphql,figma,angular,fortran,cpp,cs,arduino,cypress,dotnet,firebase,unity,express,rust,blender,python,flask,jquery,lua,latex,md)](https://skillicons.dev)
+## Programming Languages/Tools/Frameworks/DBs
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,next,vue,nuxtjs,react,tailwind,vuetify,sass,threejs,gatsby,graphql,figma,angular,flutter,python,flask,fortran,cpp,cs,arduino,cypress,dotnet,firebase,unity,express,rust,blender,jquery,lua,latex,mysql,matlab)](https://skillicons.dev)
+
+### My fav combos 
+[![My Skills](https://skillicons.dev/icons?i=next,tailwind,ts,mongo)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=gatsby,graphql)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev)   
+
+
+
+## 
 
 
 
