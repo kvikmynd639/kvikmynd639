@@ -31,7 +31,7 @@
 - **Neptune Themed Website** : Three.js/CSS
 
 ## Programming Languages/Tools/Frameworks/DBs
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,next,vue,nuxtjs,react,tailwind,vuetify,sass,threejs,gatsby,graphql,figma,angular,flutter,python,flask,fortran,cpp,cs,arduino,cypress,dotnet,firebase,unity,express,rust,blender,jquery,lua,latex,mysql,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,next,vue,nuxtjs,react,tailwind,vuetify,sass,threejs,gatsby,graphql,figma,angular,flutter,python,flask,fortran,cpp,cs,arduino,cypress,dotnet,firebase,unity,express,rust,blender,jquery,lua,latex,mysql,matlab, qwik)](https://skillicons.dev)
 
 ### My fav combos 
 [![My Skills](https://skillicons.dev/icons?i=next,tailwind,ts,mongo)](https://skillicons.dev)   
