@@ -10,7 +10,7 @@ export const loader: LoaderFunction = async () => {
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Sumeja Buljugija - Portfolio" },
+    { title: "Sumeja Buljugija - Portfolio web" },
     { name: "description", content: "Welcome to Remix!" },
   ];
 };
