@@ -30,9 +30,8 @@ export default function Index() {
       <div className="w-full md:w-1/3 h-full flex flex-col items-start justify-center px-8 space-y-6 bg-transparent">
         {/* Title Section */}
         <h1 className="text-8xl font-extrabold leading-tight text-indigo-950">
-          Initial P
+          Initial <span className="text-red-600">P</span>ortfolio
         </h1>
-        <h4 className="text-lg font-semibold">- for portfolio</h4>
         <p className="text-lg text-gray-900">
           On the left, you’ll see where my dreams (and your investment) are
           headed: straight into the garage for my beloved Hachiroku.
@@ -59,9 +58,9 @@ export default function Index() {
             </p>
           </div>
           <div className="flex flex-col items-start">
-            <h2 className="text-4xl font-extrabold text-gray-900">+800k</h2>
+            <h2 className="text-4xl font-extrabold text-gray-900">Slope</h2>
             <p className="text-gray-900">
-              Hours watched, delivering engaging, captivating storytelling.
+              climber
             </p>
           </div>
         </div>

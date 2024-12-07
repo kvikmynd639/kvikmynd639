@@ -2,56 +2,79 @@
 import { Canvas } from "@react-three/fiber";
 import { Stage } from "@react-three/drei";
 import ToyotaTrueno from "./Hakurochi";
-import { useEffect, useState } from "react";
+import { useEffect, useState, Suspense } from "react";
+import { useSpring, a } from "@react-spring/three";
 
 export const HakurochiScene = () => {
-  const [isMobile, setIsMobile] = useState(false);
+  const [scrollPosition, setScrollPosition] = useState(0);
+  const [isClient, setIsClient] = useState(false);
+
+  // Car animation spring with sharper drift effect
+  const { position, rotation } = useSpring({
+    position: [scrollPosition * 2, -1.5, 0], // Move right as scroll increases
+    rotation: [
+      0, // No tilt on x-axis
+      Math.PI / 1.35 + scrollPosition * Math.PI / 4, // Sharper lateral rotation along y-axis (45 degrees max increment)
+      0, // No z-axis tilt
+    ],
+    config: {
+      mass: 2,
+      tension: 200,
+      friction: 35, // Enhanced friction for a realistic drift
+    },
+  });
 
   useEffect(() => {
-    const handleResize = () => {
-      setIsMobile(window.innerWidth <= 768); // Adjust breakpoint as needed
+    setIsClient(true);
+
+    const handleScroll = () => {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+
+      // Normalize scroll position between 0 and 1
+      const normalizedScroll = scrollTop / maxScroll;
+      setScrollPosition(normalizedScroll);
     };
 
-    handleResize();
-    window.addEventListener("resize", handleResize);
-    return () => window.removeEventListener("resize", handleResize);
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+
+  if (!isClient) return null;
 
   return (
     <Canvas
       shadows
+      pixelRatio={Math.min(window.devicePixelRatio, 2)}
       camera={{
         position: [6, 2, 6],
-        fov: isMobile ? 60 : 50,
-      }}
-      onCreated={({ camera }) => {
-        camera.lookAt(0, 0, 0);
+        fov: 50,
       }}
       style={{ width: "100%", height: "100%" }}
     >
-      {/* Enhanced Lighting */}
-      <ambientLight intensity={0.7} color="#ffffff" /> {/* Brighter ambient light */}
+      <ambientLight intensity={0.5} color="#ffffff" />
       <directionalLight
         castShadow
         position={[10, 10, 10]}
-        intensity={1.5} // Increase the intensity for a stronger directional light
-        shadow-mapSize-width={1024}
-        shadow-mapSize-height={1024}
+        intensity={1}
+        shadow-mapSize-width={512}
+        shadow-mapSize-height={512}
       />
-      <pointLight position={[5, 5, 5]} intensity={0.8} color="#ffffff" /> {/* Additional light for depth */}
 
-      <Stage adjustCamera={false} intensity={0.5} environment="city">
-        <group
-          rotation={[0, Math.PI / 1.35, 0]}
-          scale={isMobile ? 0.015 : 0.022}
-          position={[0, -1.5, 0]}
-        >
-          <ToyotaTrueno />
-        </group>
-      </Stage>
+      <Suspense fallback={null}>
+        <Stage adjustCamera={false} intensity={0.4} environment="city" resolution={256}>
+          {/* Animated Group */}
+          <a.group
+            rotation={rotation} // Sharper lateral drift effect using y-axis rotation
+            scale={0.015}
+            position={position} // Animate the car's position
+          >
+            <ToyotaTrueno isMoving={scrollPosition > 0} />
+          </a.group>
+        </Stage>
+      </Suspense>
     </Canvas>
   );
 };
 
 export default HakurochiScene;
-
