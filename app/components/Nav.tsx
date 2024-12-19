@@ -2,7 +2,7 @@
 
 export default function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 bg-white bg-opacity-90">
+    <nav className="relative top-0 left-0 w-full z-50 bg-white bg-opacity-90">
       <div className="flex justify-center items-center h-16">
         {/* Navigation Links */}
         <div className="flex space-x-8">
