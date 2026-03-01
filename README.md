@@ -1,63 +1,44 @@
-<div align="center">
 
-# 🏁 Your Name
+Copy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=E10600&center=true&vCenter=true&width=440&lines=Building+at+race+pace.;Code+engineered+to+win.;If+you're+not+pushing%2C+you're+not+racing." />
+# kvikmynd
 
-[![](https://img.shields.io/badge/Race%20Status-GREEN%20FLAG%20🟢-1a1a1a?style=flat-square)](https://github.com/YOUR_USERNAME)
-
-</div>
+[![](https://img.shields.io/badge/status-building-1a1a1a?style=flat-square)](https://github.com/kvikmynd)
 
 ---
 
-### ⚙️ Power Unit
+### Languages
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,haskell,fortran&theme=dark" />
 </div>
 
-### 🧠 AI / LLM
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-</div>
+### Areas
 
-> LlamaIndex · LangChain · RAG · Embeddings
+**AI / LLM** — PyTorch · TensorFlow · LlamaIndex · LangChain · RAG · Embeddings
 
-### 🎮 Game & Systems
+**Game & Systems** — Unity · Unreal · Linux · Docker
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,linux,docker,git&theme=dark" />
-</div>
+**Web** — React · Next.js · Node.js
 
-### 🌐 Web (Secondary)
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" />
+### Stats
+
+<div align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kvikmynd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=ffffff&title_color=ffffff" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=kvikmynd&theme=dark&hide_border=true&background=0D1117" />
 </div>
 
 ---
 
-### 📊 Telemetry
+### Projects
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=E10600&title_color=E10600" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=E10600&fire=E10600&currStreakLabel=E10600" />
-</div>
-
----
-
-### 🧪 Featured Projects
-
-| Project | Stack | Focus |
+| Project | Stack | Notes |
 |---|---|---|
 | **Pole Position** | Fortran · C++ · MPI · OpenMP | HPC / Scientific Computing |
-| **Neural Apex** | LlamaIndex · LangChain · Python | AI / LLM Systems |
+| **Neural Apex** | LlamaIndex · LangChain · Python | LLM Systems |
 | **Simulation Grid** | Unity · Unreal · C++ · C# | Game / Engine Tech |
 | **Control Panel** | React · Next.js · APIs | Dashboards & Tooling |
-
----
-
-<div align="center">
-<sub><i>"If you no longer push the limit, you're not racing."</i></sub>
-</div>
