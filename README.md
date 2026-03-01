@@ -25,14 +25,7 @@ Copy
 
 ---
 
-### Stats
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kvikmynd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=ffffff&title_color=ffffff" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=kvikmynd&theme=dark&hide_border=true&background=0D1117" />
-</div>
-
----
 
 ### Projects
 
